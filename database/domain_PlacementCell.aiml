@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+	<category>
+      <pattern>GIVE ME PLACEMENT REPORT</pattern>
+      <template>
+		you can find report in follow link:https://scet.ac.in/tandp_report
+	  </template>
+    </category>
+	<category>
+      <pattern>GIVE ME THE LIST OF RECRUITERS</pattern>
+      <template>
+		There are many companies and every year lots of companies conduct placement procedure in scet
+		for more information visit below link:https://scet.ac.in/tandp_Recruiters
+	  </template>
+    </category>
+	<category>
+      <pattern>GIVE INFORMATION ABOUT PLACEMENT PROCEDURE</pattern>
+      <template>
+		Call the TPO and drop a mail on prakash.khatwani@scet.ac.in / tnp@scet.ac.in  with complete details of Job, Location, Salary, Contract/Bond, recruitment procedure
+		for more information visit https://scet.ac.in/tandp_placementproc
+	  </template>
+    </category>
+	
+	</aiml>
+	
+	

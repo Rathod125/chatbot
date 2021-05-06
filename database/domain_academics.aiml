@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+   
+   <category>
+      <pattern>GIVE INFORMATION ABOUT ACADEMICS</pattern>
+    <template> for academics details follow link https://scet.ac.in/ and visit academics section in this section you get information about programmes,collobrations,r and d activities etc
+</template>
+    </category>      
+
+      
+
+   <category>
+      <pattern>GIVE INFORMATION ABOUT SYLLABUS</pattern>
+    <template> for syllabus detail visit department section and go through different departments for syllabus.
+    follow this link https://scet.ac.in/ 
+</template>
+    </category>      
+   
+
+ 
+
+
+
+<category>
+<pattern>GIVE THE ACADEMIC CALENDAR</pattern>
+<template> You can get the academic calendar for BE from the link given below 
+https://scet.ac.in/ac/acl_gtu_even
+
+
+</template>
+</category>
+
+
+<category>
+<pattern>MAI I KNOW THE SYLLABUS OF CIVIL ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF CIVIL ENGINEERING from the link given below 
+https://scet.ac.in/Civil
+
+</template>
+</category>
+<category>
+<pattern>MAY I KNOW THE SYLLABUS OF COMPUTER ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF COMPUTER ENGINEERING from the link given below 
+https://scet.ac.in/CO
+
+
+</template>
+</category>
+
+
+
+<category>
+<pattern>MAY I KNOW THE SYLLABUS OF ELECTRICAL ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF ELECTRICAL ENGINEERING from the link given below 
+https://scet.ac.in/EL
+
+
+
+</template>
+</category>
+<category>
+<pattern>MAY I KNOW THE SYLLABUS OF ELECTRONICS AND COMMUNICATION ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF ELECTRONICS AND COMMUNICATION ENGINEERING from the link given below 
+https://scet.ac.in/EC
+</template>
+</category>
+
+<category>
+<pattern>MAY I KNOW THE SYLLABUS OF TEXTILE ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF TEXTILE ENGINEERING from the link given below 
+https://scet.ac.in/TT
+
+
+</template>
+</category>
+<category>
+<pattern>MAY I KNOW THE SYLLABUS OF INFORMATION TECHNOLOGY</pattern>
+<template> You can get the SYLLABUS OF INFORMATION TECHNOLOGY from the link given below 
+https://scet.ac.in/it_syllabus
+
+
+
+</template>
+</category>
+<category>
+<pattern>SYLLABUS IT</pattern>
+<template> You can get the SYLLABUS OF INFORMATION TECHNOLOGY from the link given below 
+https://scet.ac.in/it_syllabus
+
+
+
+</template>
+</category>
+
+<category>
+<pattern>MAY I KNOW THE SYLLABUS OF MECHANICAL ENGINEERING </pattern>
+<template> You can get the SYLLABUS OF MECHANICAL ENGINEERING from the link given below 
+https://scet.ac.in/mech/mech_syllabus
+</template>
+</category>
+<category>
+<pattern>MAY I KNOW THE SYLLABUS OF MCA</pattern>
+<template> You can get the SYLLABUS OF MCA from the link given below 
+https://scet.ac.in/MCA_Syllabus
+
+</template>
+</category>
+
+</aiml>

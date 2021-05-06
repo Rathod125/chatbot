@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+	     
+	<category>
+      <pattern>GIVE INFORMATION ABOUT HOD OF IT</pattern>
+      <template>
+		Prof. (Dr.) Vivaksha Jariwala
+		Designation: Associate Professor and Head of Department
+		Qualification: Ph.D.
+		Experience: 17.5 years (Academic) , 1.5 years (Industry)
+		Area of Interest: Information Security, Wireless Sensor Network, Software Engineering, Computer Networks
+		Email: vivaksha.jariwala@scet.ac.in
+		Contact No.: 0261-2240146-611(Ext.)
+
+	  </template>
+    </category>
+	<category>
+      <pattern>GIVE INFORMATION ABOUT HOD OF CO</pattern>
+      <template>
+		
+		Prof. (Dr.) Pariza Kamboj
+		Designation: Professor and Head of Department
+		Qualification: Ph.D.
+		Experience: 24 years
+		Area of Interest: Data Science, Python for Data science, Big Data Analytics, IoT, Machine Learning, Deep Learning, IoT, WSN, Mobile Ad-hoc Networks, Computer Networks, Network Security, Mobile Computing, Python, Advance Java, Core Java.
+		Email: pariza.kamboj@scet.ac.in
+		Contact No.: 0261-2240146-302(Ext.)
+	  </template>
+    </category>
+    <category>
+      <pattern>GIVE INFORMATION ABOUT FACULTY OF IT</pattern>
+	  <template> 
+		visit below link:https://scet.ac.in/it/it_faculty			
+	  </template>
+	</category>
+	
+</aiml>
+	
+		

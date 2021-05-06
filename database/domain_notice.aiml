@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+    
+
+   <category>
+      <pattern>GIVE INFORMATION ABOUT PLACEMENTS</pattern>
+    <template> follow the below 
+     Link: https://scet.ac.in/tandp-2 and you will get all information about it.
+
+</template>
+</category>
+<category>
+      <pattern>GIVE INFORMATION ABOUT PLACEMENT</pattern>
+    <template> follow the below 
+     Link: https://scet.ac.in/tandp-2 and you will get all information about it.
+
+</template>
+    </category>      
+     
+
+   
+<category>
+      <pattern>GIVE INFORMATION ABOUT FEES STRUCTURE</pattern>
+    <template> To know about fees structure follow Link: https://scet.ac.in/saa/fees
+</template>
+    </category>      
+	
+
+
+<category>
+      <pattern>GIVE INFORMATION ABOUT SCHOLARSHIP</pattern>
+    <template> Scholarships: Scholarship is a very important motivational tool for the students and it helps them in establishing strong educational background which is necessary for a great career. Through a scholarship a student can receive motivation for studies for various ways from family, school, institution, society as well as government. A scholarship has various facets, it can be in from of general education, foreign education, research fellowship, language research fellowship, talent search etc. A scholarship can be classified into three categories:
+A) Government Scholarships
+B) Assistance from Community
+C) Bank Loans
+for more information follow link: https://scet.ac.in/saa
+
+</template>
+    </category>    
+
+	
+<category>
+      <pattern>GIVE INFORMATION ABOUT COLLEGE LIBRARY</pattern>
+    <template> SCET library is well equipped with books of for all disciplines, back volumes and latest journals. College library functions under the open access system having more than 59594 books, National/International journals, print Journals, and magazines of good repute. Research journals in electronic as well as printed formats   are being subscribed in SCET library. E-journals of various reputed online scientific databases such as American Chemical Society, ASCE, IEEE, Science-Direct, J Gate, McGraw-Hill and Springer Link are available in the Library.
+    for more information follow link https://scet.ac.in/campus-life/lib
+
+</template>
+    </category>   
+	
+   
+     
+
+</aiml>
